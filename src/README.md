@@ -1,4 +1,4 @@
-# Cyberpunk Food Festival
+# Cyberpunk Food Festival Created by Vidyankshini Vibhute 
 
 A mobile-first digital ordering platform for IIIT-B's neon-themed food festival. This prototype features a complete cyberpunk aesthetic with glowing neon accents, smooth animations, and a comprehensive user flow.
 
