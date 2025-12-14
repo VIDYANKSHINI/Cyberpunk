@@ -52,9 +52,4 @@ Impact
 Higher engagement from gamified coupons 
 
 
-  ## For Running this code in terminal
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
   
